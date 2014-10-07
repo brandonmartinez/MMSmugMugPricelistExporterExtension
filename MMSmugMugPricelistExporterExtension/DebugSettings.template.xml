@@ -12,8 +12,8 @@
           <SQLDebugging>False</SQLDebugging>
           <ExternalProgram>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</ExternalProgram>
           <StartExternalURL></StartExternalURL>
-          <StartCmdLineArguments>--load-extension="C:\src\MartinezMedia\MMSmugMugPricelistExporterPlugin\MMSmugMugPricelistExporterPlugin\app"</StartCmdLineArguments>
-          <StartWorkingDirectory>C:\src\MartinezMedia\MMSmugMugPricelistExporterPlugin\MMSmugMugPricelistExporterPlugin</StartWorkingDirectory>
+          <StartCmdLineArguments>--load-extension="C:\src\MartinezMedia\MMSmugMugPricelistExporterExtension\MMSmugMugPricelistExporterExtension\app"</StartCmdLineArguments>
+          <StartWorkingDirectory>C:\src\MartinezMedia\MMSmugMugPricelistExporterExtension\MMSmugMugPricelistExporterExtension</StartWorkingDirectory>
           <EnableENC>False</EnableENC>
           <AlwaysStartWebServerOnDebug>True</AlwaysStartWebServerOnDebug>
         </WebProjectProperties>
