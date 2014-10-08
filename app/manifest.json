@@ -8,7 +8,6 @@
   "content_scripts": [
     {
       "matches": ["https://secure.smugmug.com/sales/pricing/edit/*"],
-      "css": ["mm.smugmug.pricelist.exporter.extension.css"],
       "js": ["jquery.js", "mm.smugmug.pricelist.exporter.extension.js"]
     }
   ]
