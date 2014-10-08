@@ -4,7 +4,7 @@ A Google Chrome extension to export your SmugMug pricelists to a tabular, and mo
 
 ## How To Install
 
-After cloning the repository locally, you can either install the pre-packed CRX file or load it as an unpacked extension (e.g. you want to further develop the extension):
+After cloning the repository locally (or just [downloading the ZIP archive](https://github.com/brandonmartinez/MMSmugMugPricelistExporterExtension/archive/master.zip)), you can either install the pre-packed CRX file or load it as an unpacked extension (e.g. you want to further develop the extension):
 
 
 ### CRX
