@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "SmugMug Pricelist Exporter",
+  "description": "Export your SmugMug pricelists to various formats.",
+  "version": "0.9",
+  
+  "content_scripts": [
+    {
+      "matches": ["https://secure.smugmug.com/sales/pricing/edit/*"],
+      "css": ["mm.smugmug.pricelist.exporter.extension.css"],
+      "js": ["jquery.js", "mm.smugmug.pricelist.exporter.extension.js"]
+    }
+  ]
+}
