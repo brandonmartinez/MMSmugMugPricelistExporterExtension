@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "SmugMug Pricelist Exporter",
-  "description": "Export your SmugMug pricelists to various formats.",
+  "description": "Export your SmugMug pricelist to a tabular, copyable format.",
   "version": "0.9",
   
   "content_scripts": [
