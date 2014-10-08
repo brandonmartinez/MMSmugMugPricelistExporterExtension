@@ -72,11 +72,8 @@ function MMSmugMugPriceListExporterExtension() {
 	}
 
 	self.init = function(){
-		console.log('Modifying Header');
 		modifyHeader();
-		console.log('Expanding Pricelists');
 		expandPricelists()
-		console.log('Registering Export Handler');
 		registerEventHandlers();
 	};
 }
