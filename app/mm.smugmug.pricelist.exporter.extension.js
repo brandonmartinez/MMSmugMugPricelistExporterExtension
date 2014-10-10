@@ -60,7 +60,7 @@ function MMSmugMugPriceListExporterExtension() {
 		}, 500);
 		setTimeout(function(){
 			$('.sm-u.sm-pricelistproduct-actions').click();
-		}, 1000);
+		}, 1500);
 	}
 
 	function registerEventHandlers(){
@@ -68,7 +68,7 @@ function MMSmugMugPriceListExporterExtension() {
 			var $exportButton = $('#' + exportButtonId);
 			$exportButton.on('click', exportToConsole);
 			$exportButton.removeAttr('disabled');
-		}, 2000);
+		}, 2500);
 	}
 
 	self.init = function(){
